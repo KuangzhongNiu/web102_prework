@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 Full Video: https://youtu.be/RoFFKueFkLE
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
